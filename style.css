@@ -1,0 +1,24 @@
+body {
+    font-family: 'Poppins';
+}
+
+h1 {
+    color: grey;
+}
+
+#bg-form {
+    background-color: rgb(227, 236, 243);
+}
+
+.width-num {
+    height: 30px;
+}
+
+hr {
+    width: 80%;
+}
+
+option {
+    font-family: 'Poppins';
+    font-size: 1em;
+}
